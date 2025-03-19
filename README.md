@@ -14,6 +14,6 @@ mingw32-make
 
 * ### On Debian/Ubunto/derivatives...
 ```sh
-sudo apt install libsfml-devsudo apt install libsfml-dev
+sudo apt install libsfml-dev
 make
 ```
